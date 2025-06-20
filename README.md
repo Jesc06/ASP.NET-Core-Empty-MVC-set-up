@@ -7,7 +7,7 @@ This guide will walk you through setting up a minimal **ASP.NET Core Empty** pro
  
 ## ✅ Prerequisites 
  
-- ✅ Visual Studio 2022 installed
+- ✅ Visual Studio 2022 installed 
 - ✅ .NET 8.0 or .NET 9.0 SDK installed
 
 ---
