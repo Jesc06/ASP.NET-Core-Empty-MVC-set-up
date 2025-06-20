@@ -1,5 +1,5 @@
 # ASP.NET Core Empty  
-# MVC Architecture Setup Guide
+# MVC Architecture Setup Guide 
 
 This guide will walk you through setting up a minimal **ASP.NET Core Empty** project using Visual Studio 2022 and .NET 8/9.
  
